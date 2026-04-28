@@ -1,8 +1,5 @@
 #  About Me:
-I build intelligent systems in AI and cybersecurity, that think, teach, and protect while quietly reshaping the world.
-I collaborate on experimental projects, privacy-first platforms, and systems that respect users, blending radical ideas with grounded wisdom.
-Currently learning LLMs, privacy-centric system design, and how to merge tradition with innovation.
-Ask me about AI pipelines, ML models, backend architecture and software development.
+SQA Engineer dedicated to the integrity of AI and intelligent systems. I specialize in bridging Software Engineering principles with Quality Assurance to build automated testing frameworks that think and protect. Experienced in Agile environments, Selenium automation, and API testing, I focus on delivering high-performance, bug-free software that respects the user. Expert in SDLC/STLC and backend quality architecture.
 
 
 # 💻 Tech Stack:
